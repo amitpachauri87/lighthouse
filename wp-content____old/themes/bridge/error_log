@@ -1,0 +1,4 @@
+[01-Oct-2018 09:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/index.php on line 1

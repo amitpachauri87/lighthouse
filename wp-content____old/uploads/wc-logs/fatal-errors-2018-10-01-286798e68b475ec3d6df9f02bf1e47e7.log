@@ -1,0 +1,9 @@
+2018-10-01T06:48:47+00:00 CRITICAL Uncaught wfAPICallFailedException: There was an error connecting to the Wordfence scanning servers: cURL error 28: Connection timed out after 10001 milliseconds in /data/home/pdcisinl/public_html/lighthouse/wp-content/plugins/wordfence/lib/wfAPI.php:133
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-content/plugins/wordfence/lib/wfAPI.php(36): wfAPI->getURL('https://noc1.wo...', Array, 900)
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-content/plugins/wordfence/lib/wordfenceClass.php(3877): wfAPI->call('record_toupp', Array, Array)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-content/plugins/wordfence/lib/wordfenceClass.php(1374): wordfence::ajax_recordTOUPP_callback()
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-includes/class-wp-hook.php(286): wordfence::ajaxReceiver('')
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-includes/plugin.php(453): WP_Hook->do_action(Arra
+

@@ -1,0 +1,288 @@
+2018-10-04T06:24:40+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:30:09+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:31:12+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:35:05+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:37:34+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:39:02+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:40:05+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:46:09+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:52:49+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:52:51+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:53:30+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T06:57:40+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:26:30+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:28:04+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:28:06+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:28:46+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:30:02+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:30:03+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:30:05+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:31:12+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:31:29+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+
+2018-10-04T07:32:00+00:00 CRITICAL Uncaught Error: Call to undefined function qode_get_blog_single_params() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/single.php:1
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#2 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#3 {main}
+  thrown
+
+2018-10-04T07:34:52+00:00 CRITICAL Uncaught Error: Call to undefined function qode_get_blog_single_params() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/single.php:1
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#2 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#3 {main}
+  thrown
+
+2018-10-04T07:34:57+00:00 CRITICAL Uncaught Error: Call to undefined function qode_get_blog_single_params() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/single.php:1
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#2 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#3 {main}
+  thrown
+
+2018-10-04T07:35:01+00:00 CRITICAL Uncaught Error: Call to undefined function qode_options() in /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/header.php:25
+Stack trace:
+#0 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(688): require_once()
+#1 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template.php(647): load_template('/data/home/pdci...', true)
+#2 /data/home/pdcisinl/public_html/lighthouse/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /data/home/pdcisinl/public_html/lighthouse/wp-content/themes/bridge/full_width.php(36): get_header()
+#4 /data/home/pdcisinl/public_html/lighthouse/wp-includes/template-loader.php(74): include('/data/home/pdci...')
+#5 /data/home/pdcisinl/public_html/lighthouse/wp-blog-header.php(19): require_once('/data/home/pdci...')
+#6 /data/home/pdcisinl/public_html/lighthouse/index.php(17): require('/data/home/pdci...')
+#7 {main}
+  thrown
+

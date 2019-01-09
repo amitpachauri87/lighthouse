@@ -1,0 +1,8 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="0">tm_global_cp</custom-type>
+        <custom-type translate="0">tm_product_cp</custom-type>
+    </custom-types>  
+</wpml-config>
+
+
